@@ -1,10 +1,10 @@
-### This project is used for hooking native tflite model and input data on Android devices.
+## This project is used for hooking native tflite model and input data on Android devices.
 
-#### Dependencies
+### Dependencies
 
 - frida
 
-#### USAGE
+### USAGE
 
 - Git clone this repo.
 - Modify the scripts.
